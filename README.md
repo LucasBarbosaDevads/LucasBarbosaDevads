@@ -1,4 +1,4 @@
-## Hi dear 👋, I'm Lucas Barbosa da Silva 
+## Hi dear 👋, I'm Lucas Barbosa
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasBarbosaDevads&color=yellow" alt="Profile views" /> </p>
 <li>🖥️ Computer Support Analyst - Development of interactive teaching systems
